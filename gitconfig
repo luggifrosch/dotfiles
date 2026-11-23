@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ludwig.drosch@posteo.de
+	name = Ludwig Drosch
